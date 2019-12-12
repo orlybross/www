@@ -183,9 +183,6 @@ margin-left: -42px;
   margin-top: 100px;
 }
 
-.cerdos{
-  width: 300px;
-}
 
 .botones{
   width: 150px;
@@ -205,6 +202,58 @@ margin-left: -42px;
 .center{
   text-align: center;
 }
+
+.cerdos{
+  width: 340px;
+}
+
+.shamen{
+  width: 340px;
+}
+
+.deseo{
+  width: 350px;
+}
+
+.viniles{
+  width: 340px;
+}
+
+
+.algo{
+  width: 300px;
+  margin-left: 160px;
+  margin-bottom: 50px;
+  margin-top: 25px;
+}
+
+.proy{
+    margin-bottom: 50px;
+    margin-left: 100px;
+}
+
+a{
+  text-decoration: none;
+  color: #BE3E2F;
+}
+
+a:hover{
+  text-decoration: none;
+  color: #5E3E2a;
+  transition: .5s ease;
+}
+
+.margencito{
+
+    margin-top: 80px;
+
+}
+
+.video1{
+  margin-left: 90px;
+  width: 360px;
+}
+
 /* ==========================================================================
    Helper classes
    ========================================================================== */
